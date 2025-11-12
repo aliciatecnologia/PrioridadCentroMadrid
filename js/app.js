@@ -1,6 +1,6 @@
 // --- ⚙️ Configuración ---
 // ¡IMPORTANTE! Reemplaza esta URL con la URL de tu archivo JSON.
-const JSON_URL = 'URL_DEL_JSON'; 
+const JSON_URL = 'https://datos.comunidad.madrid/dataset/c750856d-3166-4dac-8e80-d1b824c968b5/resource/be2264df-c720-4619-ab79-aebad9b248e0/download/centros_educativos.json'; 
 const container = document.getElementById('table-container');
 
 // --- 🛠️ Funciones ---
